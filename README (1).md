@@ -1,61 +1,29 @@
-## Hi there! 👋
+## Hi there 👋   [![](https://visitcount.itsvg.in/api?id=aswinvadivel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm **Hariharan**! A passionate developer ready to explore the world of technology. Let's build something amazing together!
+## 💫 About Me
+- 🚀 Passionate about crafting elegant solutions to complex problems
+- 🔭 Building my digital presence at Portfolio
+- 🌱 Currently mastering Data Structures & Algorithms and exploring Spring Boot 
+- 💡 Always excited to learn new technologies and frameworks
+- 👯 Looking to collaborate on innovative Full Stack Projects
+- 🎯 Goal: Contributing to projects that make a difference
+- 💬 Let's discuss Tech, Innovation, and the Future of Development
 
-## About Me
 
-I am a software developer with a keen interest in web technologies. I enjoy solving problems and creating efficient solutions. Currently, I'm based in India and working on enhancing my skills in full-stack development.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aswin-vadivel/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@vaswin1220) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaswin1220@gmail.com) 
 
-## Skills & Technologies
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aswinvadivel&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aswinvadivel&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinvadivel&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-html,css,nodejs,express,react
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aswinvadivel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Top Projects
+---
+[![](https://visitcount.itsvg.in/api?id=aswinvadivel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- [hariharanbvec](https://github.com/hariharanbvec/hariharanbvec) - My personal repository showcasing various projects. ⭐ 0 stars | Language: N/A | Forks: 0 | Issues: 0
-- [FoodDonation](https://github.com/hariharanbvec/FoodDonation) - A project aimed at facilitating food donations to those in need. ⭐ 0 stars | Language: N/A | Forks: 0 | Issues: 0
-
-## GitHub Stats
-
-📊 **Public Repositories:** 2  
-👥 **Followers:** 0  
-🔄 **Following:** 0  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariharanbvec&show_icons=true&theme=radical)
-
-## Recent Activity
-
-🔄 Last 5 activities: 
-- Created `FoodDonation` repository on 2025-02-09.
-- Created `hariharanbvec` repository on 2025-07-16.
-
-## Latest Blog Posts
-
-📝 No blog posts available yet. Stay tuned!
-
-## Connect with Me
-
-{}
-
-## My Talks
-
-- [Talk Title](link-to-talk) - Brief description of the talk
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
-
-## Publications
-
-- [Publication Title](link-to-publication) - Journal/Conference, Year
-
-## ASCII Art
-
-```
-  _                _ _                           _                   
- | |__   __ _ _ __(_) |__   __ _ _ __ __ _ _ __ | |____   _____  ___ 
- | '_ \ / _` | '__| | '_ \ / _` | '__/ _` | '_ \| '_ \ \ / / _ \/ __|
- | | | | (_| | |  | | | | | (_| | | | (_| | | | | |_) \ V /  __/ (__ 
- |_| |_|\__,_|_|  |_|_| |_|\__,_|_|  \__,_|_| |_|_.__/ \_/ \___|\___|
-                                                                     
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
